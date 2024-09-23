@@ -2,3 +2,7 @@
     background-color:rgb(228, 115, 115);
     font-family: Verdana, "DeJaVu Sans", sans-serif;
 }
+
+.fontClass {
+    font-size: 24px;
+}
