@@ -6,3 +6,8 @@
 .fontClass {
     font-size: 24px;
 }
+
+#firstID {
+    font-size: 36px;
+    color: blue;
+}
