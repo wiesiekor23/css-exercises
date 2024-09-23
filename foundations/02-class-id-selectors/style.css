@@ -9,5 +9,10 @@
 
 #firstID {
     font-size: 36px;
-    color: blue;
+    color: #0000ff;
+}
+
+#secondID {
+    background-color: hsl(120, 100%, 75%);
+    font-weight: bold;
 }
